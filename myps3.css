@@ -55,34 +55,34 @@
 }
 
 .controller.ps.white {
-    background-image: url(https://ynws.github.io/gamepadviewerCSS/skins/base.png);
+    background-image: url(https://wanau-ynw.github.io/gamepadviewerCSS/skins/base.png);
 }
 
 .ps.white .trigger {
-    background-image: url(https://ynws.github.io/gamepadviewerCSS/skins/triggers.png);
+    background-image: url(https://wanau-ynw.github.io/gamepadviewerCSS/skins/triggers.png);
 }
 
 .ps.white .bumper {
-    background-image: url(https://ynws.github.io/gamepadviewerCSS/skins/bumpers.png);
+    background-image: url(https://wanau-ynw.github.io/gamepadviewerCSS/skins/bumpers.png);
 }
 
 .ps.white .quadrant {
-    background-image: url(https://ynws.github.io/gamepadviewerCSS/skins/player-n.png);
+    background-image: url(https://wanau-ynw.github.io/gamepadviewerCSS/skins/player-n.png);
 }
 
 .ps.white .back, .ps.white .start {
-    background-image: url(https://ynws.github.io/gamepadviewerCSS/skins/menus.png);
+    background-image: url(https://wanau-ynw.github.io/gamepadviewerCSS/skins/menus.png);
 }
 
 .ps.white .button {
-    background-image: url(https://ynws.github.io/gamepadviewerCSS/skins/face-buttons.png);
+    background-image: url(https://wanau-ynw.github.io/gamepadviewerCSS/skins/face-buttons.png);
 }
 
 .ps.white .stick {
-    background-image: url(https://ynws.github.io/gamepadviewerCSS/skins/thumbs.png);
+    background-image: url(https://wanau-ynw.github.io/gamepadviewerCSS/skins/thumbs.png);
 }
 
 .ps.white .face {
-    background-image: url(https://ynws.github.io/gamepadviewerCSS/skins/dpad.png);
+    background-image: url(https://wanau-ynw.github.io/gamepadviewerCSS/skins/dpad.png);
 }
 
